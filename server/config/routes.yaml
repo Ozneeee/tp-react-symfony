@@ -1,0 +1,3 @@
+controllers:
+    resource: ../src/Controller/ProductController.php
+    type: attribute
